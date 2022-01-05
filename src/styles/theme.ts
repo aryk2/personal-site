@@ -2,7 +2,11 @@ import { useTheme as useThemeEmotion } from 'emotion-theming'
 import emotionStyled, { CreateStyled } from '@emotion/styled'
 
 export const colors = {
-
+    white: '#ffffff',
+    yellow: '#fbc201',
+    blue: '#3188f2',
+    orange: '#ff801e',
+    green: '#62cd25'
 }
 
 export const breakpoints = ['320px', '768px', '1024px', '1440px']
