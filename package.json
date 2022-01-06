@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/aryk2/personal-site#readme",
   "workspaces": [
-    "ui"
+    "ui",
+    "strapi-cms"
   ]
 }
