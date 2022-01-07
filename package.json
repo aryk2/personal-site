@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:ui": "npm run start --workspace=ui"
+    "start:ui": "npm run start --workspace=ui",
+    "start:strapi": "npm run start --workspace=strapi-cms"
   },
   "repository": {
     "type": "git",
@@ -18,6 +19,6 @@
   "homepage": "https://github.com/aryk2/personal-site#readme",
   "workspaces": [
     "ui",
-    "strapi-cms"
+    "bff-server"
   ]
 }
