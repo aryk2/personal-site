@@ -19,6 +19,6 @@
   "homepage": "https://github.com/aryk2/personal-site#readme",
   "workspaces": [
     "ui",
-    "bff-server"
+    "azure-functions"
   ]
 }
